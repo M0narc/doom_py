@@ -6,3 +6,5 @@ first I'll create a 2-d raycaster
 with the help of the 2-d raycaster we are gonna get a 3d proyection of the game level.
 
 and add a pathfinding algorithm for enemies
+
+I really need to study trigonometry
